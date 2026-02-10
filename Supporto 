@@ -1,0 +1,261 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Supporto | Online Help Delivered to Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif}
+    body{background:#f4f9ff;color:#222}
+    header{background:#1e88e5;color:#fff;padding:60px 20px;text-align:center}
+    header h1{font-size:40px;margin-bottom:10px}
+    header p{font-size:18px;opacity:0.95}
+    .btns{margin-top:25px}
+    .btn{display:inline-block;margin:10px;padding:14px 28px;border-radius:30px;font-weight:500;text-decoration:none}
+    .call{background:#fff;color:#1e88e5}
+    .whatsapp{background:#25d366;color:#fff}
+    section{padding:60px 20px;max-width:1100px;margin:auto}
+    h2{text-align:center;font-size:30px;margin-bottom:40px;color:#1e88e5}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:25px}
+    .card{background:#fff;padding:30px;border-radius:16px;box-shadow:0 8px 20px rgba(0,0,0,0.06);text-align:center}
+    .card h3{margin-bottom:10px;font-size:18px}
+    .why li{margin:10px 0;list-style:none}
+    .steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center}
+    .step{background:#eaf4ff;padding:25px;border-radius:14px}
+    footer{background:#1e88e5;color:#fff;text-align:center;padding:40px 20px}
+    footer p{margin:8px 0}
+    .float-btn{position:fixed;bottom:20px;padding:14px 18px;border-radius:50%;color:#fff;font-size:20px;text-decoration:none}
+    .float-call{left:20px;background:#1e88e5}
+    .float-wa{right:20px;background:#25d366}
+  </style>
+</head>
+<body><header>
+  <h1>Supporto</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#services">Services</a>
+    <a href="#how">How It Works</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header><section>
+  <h2>Our Services</h2>
+  <div class="grid">
+    <div class="card"><h3>Home Support</h3><p>Electrician, plumbing & basic help</p></div>
+    <div class="card"><h3>Online Assistance</h3><p>Forms, applications & registrations</p></div>
+    <div class="card"><h3>Technical Help</h3><p>Mobile, laptop & software issues</p></div>
+    <div class="card"><h3>Documentation</h3><p>Print, scan & upload support</p></div>
+    <div class="card"><h3>Urgent Help</h3><p>Quick response services</p></div>
+  </div>
+</section><section>
+  <h2>Why Choose Supporto</h2>
+  <ul class="why" style="max-width:600px;margin:auto;text-align:center">
+    <li>✔ Verified Professionals</li>
+    <li>✔ Fast Response</li>
+    <li>✔ Affordable Pricing</li>
+    <li>✔ Call & WhatsApp Support</li>
+    <li>✔ Customer-First Approach</li>
+  </ul>
+</section><section>
+  <h2>How It Works</h2>
+  <div class="steps">
+    <div class="step">Call or WhatsApp Us</div>
+    <div class="step">Explain Your Problem</div>
+    <div class="step">Get Instant Assistance</div>
+    <div class="step">Service Delivered</div>
+  </div>
+</section><section id="contact">
+  <h2>Contact Us</h2>
+  <p>
+    📞 Call: <a href="tel:+917541004670">+91-7541004670</a><br />
+    💬 WhatsApp: <a href="https://wa.me/917541004670" target="_blank">Chat on WhatsApp</a><br />
+    ✉ Email: support@supporto.in
+  </p>
+</section><section id="about">
+  <h2>About Supporto</h2>
+  <p>
+    Supporto is a customer-focused online help platform designed to deliver trusted services directly to homes.
+    Our goal is simple — quick access, verified professionals, and reliable service.
+  </p>
+</section><section id="legal">
+  <h2>Privacy Policy & Terms</h2>
+  <p>
+    We respect customer privacy and ensure secure handling of personal information.
+    All services are provided by verified professionals under transparent terms and conditions.
+  </p>
+</section><footer>
+  © 2026 Supporto. All Rights Reserved.
+</footer><a href="tel:+917541004670" class="float-btn float-call">📞</a> <a href="https://wa.me/917541004670" class="float-btn float-wa">💬</a>
+
+</body>
+</html>
+
+
+
+
+
+
+
+बहुत बढ़िया।
+Supporto नाम customer-facing service के लिए बिल्कुल professional और trustworthy लगता है।
+अब नीचे मैं Supporto – Online Help Platform के लिए पूरा ready-to-use professional website blueprint + content दे रहा हूँ, ताकि इसे सीधे live किया जा सके।
+
+
+---
+
+🌐 Website Identity
+
+Brand Name: Supporto
+Tagline: Online Help, Delivered to Your Home
+Purpose: Direct customers तक services पहुँचाना
+Theme: Light Blue • Clean • Professional • Trust-based
+
+
+---
+
+🏠 HOME PAGE (Final Content)
+
+Hero Section
+
+Headline:
+
+Supporto – Online Help, Delivered to Your Home
+
+Subtext:
+Fast, reliable and affordable help for your everyday needs.
+One platform, multiple solutions.
+
+CTA Buttons:
+🔵 Call Now
+🟢 WhatsApp Us
+
+
+---
+
+🧩 SERVICES SECTION
+
+Our Services
+
+(Flat vector cards – light blue background)
+
+🏠 Home Support Services
+Electrician, plumbing, basic household help
+
+💻 Online Assistance
+Forms, applications, registrations, online tasks
+
+🛠 Technical Help
+Mobile, laptop, software-related support
+
+📄 Documentation Support
+Govt forms, print, scan, upload assistance
+
+🚨 Urgent Help
+Quick-response support when you need it most
+
+
+
+---
+
+⭐ WHY CHOOSE SUPPORTO
+
+✔ Verified & trained professionals
+✔ Quick response time
+✔ Transparent & affordable pricing
+✔ Customer-first approach
+✔ Available via Call & WhatsApp
+
+
+---
+
+🔄 HOW IT WORKS
+
+Step 1: Call or WhatsApp us
+Step 2: Explain your problem
+Step 3: Get instant assistance
+Step 4: Service delivered at your convenience
+
+(Simple icons + horizontal flow)
+
+
+---
+
+📞 CONTACT SECTION
+
+Get in Touch
+
+Need help? We’re just one call away.
+
+📞 Call: +91 XXXXXXXXXX
+💬 WhatsApp: Click to Chat
+📧 Email: supporto@gmail.com
+
+(Contact form optional but clean)
+
+
+---
+
+📱 MOBILE EXPERIENCE (Very Important)
+
+Fixed WhatsApp floating button (bottom-right)
+
+Fixed Call button (bottom-left)
+
+Fully responsive layout (Android/iOS friendly)
+
+
+
+---
+
+🎨 UI / DESIGN SPECIFICATION
+
+Primary Color: Light Blue (#eaf4ff / #1e88e5 tone)
+
+Secondary: White
+
+Accent: Green (WhatsApp CTA)
+
+Font Style: Clean, modern (Poppins / Inter)
+
+Icons: Flat vector icons only
+
+Look & Feel: Professional, service-based, trustworthy
+
+
+❌ No incubation
+❌ No pitching
+❌ No aviation
+✅ Only customer-focused live website
+
+
+---
+
+🧱 WEBSITE PAGES (Final)
+
+1. Home
+
+
+2. Services
+
+
+3. How It Works
+
+
+4. Contact Us
+
+
+
+(Enough for launch – simple & effective)
+
+
+---
+
+🚀 Next Step
+
+अब मैं अगला step ready हूँ:
+
+👉 क्या आप चाहते हैं: 1️⃣ पूरा website code (HTML/CSS/JS) + preview
+2️⃣ Only homepage first
+3️⃣ Hindi + English mixed content
+
+बस option number बता दीजिए — Supporto को live करने में देर नहीं लगेगी।
